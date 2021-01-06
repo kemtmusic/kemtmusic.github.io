@@ -1,0 +1,50 @@
+body {
+    font: 15px/1.5 arial, sans-serif;
+    padding: 0;
+    margin: 0px;
+    text-align: center;
+    background-color: #f1f3f5
+}
+.contenedor {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background: #000000;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: grey 2px solid;
+}
+header a {
+    text-transform: unset;
+    text-decoration-color: black;
+    color: white;
+    font-size: 16px;
+}
+header li {
+    float: left;
+    display: inline;
+    padding: 0% 20px 0% 20px;
+}
+header #marca {
+    float: left;
+}
+header nav {
+    float: right;
+	margin-top: 10px;
+}
+img {
+    max-width: 200px;
+    margin: 0px;
+}
+        body h2 {
+    color: black;
+            
+        body h5 {
+    color: black;
